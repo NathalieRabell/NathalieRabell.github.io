@@ -1,0 +1,75 @@
+*{
+	text-align: center;
+	margin: 0 auto;
+}
+
+
+#div1{
+	background-color: pink;
+	height: 100px;
+	width: 100px;
+}
+
+
+#div2{
+	background-color: lightblue;
+	height: 100px;
+	width: 100px;
+}
+
+#div3{
+	background-color: pink;
+	height: 100px;
+	width: 100px;
+}
+
+
+#div4{
+	background-color: lightblue;
+	height: 100px;
+	width: 100px;
+}
+
+#div5{
+	background-color: pink;
+	height: 100px;
+	width: 100px;
+}
+
+#div6{
+	background-color: lightblue;
+	height: 100px;
+	width: 100px;
+	transition: transform .2s;
+}
+
+#div7{
+	background-color: pink;
+	height: 100px;
+	width: 100px;
+}
+
+#handler5{
+	background-color: lightblue;
+	height: 30px;
+	width: 30px;
+}
+
+#handler7{
+width: 100px;
+height: 100px;
+margin-bottom: 10px;
+	border: 1px solid black;
+}
+
+hr{
+
+margin-top: 10px;
+	width: 200px;
+}
+
+
+
+button, input, img, select, p, h2, h1{
+	margin-bottom: 10px;
+}
